@@ -1,1 +1,1 @@
-# Problema 8 rainhas uando Algoritmo genetico
+# Problema 8 rainhas usando Algoritmo genetico
