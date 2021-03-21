@@ -1,1 +1,1 @@
-# IA---PPGCC Problema 8 rainhas
+# Problema 8 rainhas uando Algoritmo genetico
