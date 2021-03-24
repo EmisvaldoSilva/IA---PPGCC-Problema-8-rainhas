@@ -464,7 +464,6 @@ public class Dama{
 			populacao.get(cromoIndex).contarAtaques();
 
 		}
-		return;
 	}
 
 	public static void main(String[] args){
